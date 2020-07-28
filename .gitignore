@@ -1,0 +1,69 @@
+# Cache and logs (Symfony2)
+/app/cache/*
+/app/logs/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
+
+# Cache and logs (Symfony3)
+/var/cache/*
+/var/logs/*
+/var/sessions/*
+!var/cache/.gitkeep
+!var/logs/.gitkeep
+!var/sessions/.gitkeep
+
+# Parameters
+/app/config/parameters.ini
+
+# Managed by Composer
+/app/bootstrap.php.cache
+/var/bootstrap.php.cache
+/bin/*
+!bin/console
+!bin/symfony_requirements
+/vendor/
+/node_modules/
+/app/Resources/vendor_bower
+npm-debug.log
+
+# every subfolder in /web
+/web/*/
+!/web/app.php
+!/web/app_dev.php
+!/web/favicons
+!/web/uploads/images/.htaccess
+!web/privacy
+
+# PHPUnit
+/app/phpunit.xml
+/phpunit.xml
+
+# Build data
+/build/
+
+# Composer PHAR
+/composer.phar
+
+# caches and random files
+.idea
+.buildpath
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+.sass-cache/
+*.orig
+/coverage/
+.cache/*
+
+# OS specifics
+.DS_Store
+
+# Env files
+.env.*
+
+# Test files
+/tests/_output
+/tests/_support/_generated
+
+/.mock/data.json
