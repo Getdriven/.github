@@ -1,10 +1,6 @@
-### Implements:
+### Tickets:
 
-- TODO: [ticket here](https://getdrivenapp.atlassian.net/browse/DV2-6)
-
-### User stories:
-
-- TODO: story here
+- [TODO](https://getdrivenapp.atlassian.net/browse/DV2-6)
 
 ### What was the problem and how was it solved:
 
@@ -14,10 +10,10 @@ TODO
 
 TODO
 
-### Was this tested? If so what cases were covered? Did you create automated tests?
+### Was this tested? If so, what cases were covered? Did you create automated tests?
 
 TODO
 
-### Is this PR relevant to other PR's
+### Is this PR relevant to other PR's?
 
 TODO
