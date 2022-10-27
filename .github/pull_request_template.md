@@ -12,7 +12,6 @@ TODO
 
 ### Was this tested? If so, what cases were covered? Did you create automated tests?
 
-- [ ] untested
 - [ ] manually
 - [ ] using unit tests
 - [ ] using acceptance/integration tests
