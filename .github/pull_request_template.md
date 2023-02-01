@@ -10,17 +10,26 @@ TODO
 
 TODO
 
-### Was this tested? If so, what cases were covered? Did you create automated tests?
+### Was this tested?
 
 - [ ] manually
 - [ ] using unit tests
 - [ ] using acceptance/integration tests
 
+### Did you create test cases? What cases were covered?
+
+TODO
+
 ### Did you create documentation for this?
 
 TODO
 
-
 ### Is this PR relevant to other PR's?
 
 TODO
+
+### Extras
+
+- [ ] contains breaking changes
+- [ ] contains database changes
+- [ ] contains new environment variables
